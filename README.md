@@ -48,7 +48,7 @@ Table below is a quick summary of software products in which I managed pricing s
 | Product                                                          | Description                                                                                 |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | 🏷️ [Enterprise Banking Software](#️-enterprise-banking-software) | Software consisted of many modules to effectively manage the loan lifecycle.                |
-| 🏷️ [Loan Application Software](#loan-application-software)       | Application software was a data collection tool to streamline the loan application process. |
+| 🏷️ [Loan Application Software](#️-loan-application-software)     | Application software was a data collection tool to streamline the loan application process. |
 
 ### 🏷️ Enterprise Banking Software
 
