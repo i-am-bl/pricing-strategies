@@ -9,7 +9,7 @@
     - [What is Pricing Strategy?](#what-is-pricing-strategy)
   - [Software Products](#software-products)
     - [🏷️ Enterprise Banking Software](#️-enterprise-banking-software)
-    - [Loan Application Software](#loan-application-software)
+    - [🏷️ Loan Application Software](#️-loan-application-software)
   - [Lending Services](#lending-services)
 
 ## Introduction
@@ -90,7 +90,7 @@ In conclusion, undertaking something new presents significant challenges. If it 
 
 ---
 
-### Loan Application Software
+### 🏷️ Loan Application Software
 
 This application facilitated the online commercial loan application process. It included self-sign-up, application submission, secure file transfer, and the ability to onboard existing clients of the FI.
 
@@ -118,18 +118,18 @@ In conclusion, I learned not all situations are quantifiable. Time creates data.
 
 Below is a summary of service groups. There was approximately a total of 250 services that were reduced to approximately 160.
 
-| Service Group                  | Description                                                                                                                      |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| CLA Activities                 | Commercial loan assistance activities that include document request/review, third-party activities, application assistance, etc. |
-| Collateral Management          | Collateral activities that include appraisal ordering, evaluations, environmentals, etc.                                         |
-| Commercial Loan Underwriting   | Activities include financial analysis, and various underwriting products based on loan exposure limits.                          |
-| Document Administration        | Activities include post-closing quality reviews, tickers & exceptions, etc.                                                      |
-| Document Processing            | Activities include the processing of loan documents for various loan and collateral types.                                       |
-| Loan Review                    | Activities include financial analysis, compliance review, and an annual review of loan health.                                   |
-| Loan Servicing                 | Activities include loan boarding, payment processing, month-end processing, etc.                                                 |
-| Policy & Regulatory Assistance | Activities include policy review, development of credit risk rating models, exam assistance, etc.                                |
-| Problem Loan Assistance        | Activities include problem loan assitance.                                                                                       |
-| SBA & USDA Loan Underwriting   | Actibities include financial analysis, Etran submission, and underwriting for government guaranteed programs.                    |
+| Service Group                     | Description                                                                                                                      |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 🏷️ CLA Activities                 | Commercial loan assistance activities that include document request/review, third-party activities, application assistance, etc. |
+| 🏷️ Collateral Management          | Collateral activities that include appraisal ordering, evaluations, environmentals, etc.                                         |
+| 🏷️ Commercial Loan Underwriting   | Activities include financial analysis, and various underwriting products based on loan exposure limits.                          |
+| 🏷️ Document Administration        | Activities include post-closing quality reviews, tickers & exceptions, etc.                                                      |
+| 🏷️ Document Processing            | Activities include the processing of loan documents for various loan and collateral types.                                       |
+| 🏷️ Loan Review                    | Activities include financial analysis, compliance review, and an annual review of loan health.                                   |
+| 🏷️ Loan Servicing                 | Activities include loan boarding, payment processing, month-end processing, etc.                                                 |
+| 🏷️ Policy & Regulatory Assistance | Activities include policy review, development of credit risk rating models, exam assistance, etc.                                |
+| 🏷️ Problem Loan Assistance        | Activities include problem loan assitance.                                                                                       |
+| 🏷️ SBA & USDA Loan Underwriting   | Actibities include financial analysis, Etran submission, and underwriting for government guaranteed programs.                    |
 
 💸 **Pricing Strategy:** Various
 
